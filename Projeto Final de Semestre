@@ -19,14 +19,14 @@ body, html {height: 100%}
 
 <div class="bgimg w3-display-container w3-text-white">
   <div class="w3-display-middle w3-jumbo">
-    <p>Restaurante</p>
+    <p>Hambúrgueria</p>
   </div>
   <div class="w3-display-topleft w3-container w3-xlarge">
     <p><button onclick="document.getElementById('menu').style.display='block'" class="w3-button w3-black">Menu</button></p>
     <p><button onclick="document.getElementById('contact').style.display='block'" class="w3-button w3-black">Contato</button></p>
   </div>
   <div class="w3-display-bottomleft w3-container">
-    <p class="w3-xlarge">Aberto de Segunda a Sexta das 11h às 15h</p>
+    <p class="w3-xlarge">Aberto de Segunda a Domingo das 18h às 23h</p>
     <p class="w3-large">Vila Velha</p>
   </div>
 </div>
