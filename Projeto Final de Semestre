@@ -9,7 +9,7 @@
 body,h1,h5 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image:url(chef.jpg);
+  background-image:url(burguer.jpg);
   min-height: 100%;
   background-position: center;
   background-size: cover;
@@ -39,17 +39,23 @@ body, html {height: 100%}
       <h1>Entradas</h1>
     </div>
     <div class="w3-container">
-      <h5>Ceviche à brasileiro <b>R$6.50</b></h5>
+      <h5>Batata Frita <b>R$6.50</b></h5>
+      <h5>Batata com Cheddar <b>R$7.00</b></h5>
+      <h5>Batata com Cheddar e Bacon<b>R$7.50</b></h5>
       <h5>Salada César <b>R$5.00</b></h5>
-      <h5>Camarões confitados <b>R$7.00</b></h5>
+      <h5>Mini Coxinhas <b>R$7.00</b></h5>
     </div>
     <div class="w3-container w3-black">
-      <h1>Pratos Principais</h1>
+      <h1>Hambúrgueres</h1>
     </div>
     <div class="w3-container">
-      <h5>Peixe Grelhado <b>R$8.50</b></h5>
-      <h5>Vitela <b>R$10.50</b></h5>
-      <h5>Carbonara <b>R$9.00</b></h5>
+      <h5>Carioca <b>R$8.50</b></h5>
+      <h5>Paulista <b>R$10.50</b></h5>
+      <h5>Baiano <b>R$9.00</b></h5>
+      <h5>Gaúcho <b>R$11.00</b></h5>
+      <h5>Goiano <b>R$10.00</b></h5>
+      <h5>Capixaba <b>R$9.50</b></h5>
+      <h5>Mineiro <b>R$11.50</b></h5>
     </div>
     <div class="w3-container w3-black">
       <h1>Sobremesas</h1>
@@ -57,7 +63,9 @@ body, html {height: 100%}
     <div class="w3-container">
       <h5>Petit Gateau <b>R$7.00</b></h5>
       <h5>Torta de Limão <b>R$5.00</b></h5>
-      <h5> <b>R$4.00</b></h5>
+      <h5>Milk Shake Paçoca<b>R$4.00</b></h5>
+      <h5>MIlk Shake Ovomaltine <b>R$5.00</b></h5>
+      <h5>Paleta Mexicana <b>R$5.00</b></h5>
     </div>
   </div>
 </div>
@@ -70,13 +78,13 @@ body, html {height: 100%}
       <h1>Contato</h1>
     </div>
     <div class="w3-container">
-      <p>Siga-nos também nas nossa redes sociais</p>
+      <p>Siga-nos também nas nossa redes sociais:</p>
          Facebook: Restaurante<br>
-         Instagram: @Restaurante   
+         Instagram: @Restaurante<br>
+         Twitter: @Restaurante   
     </div>
   </div>
 </div>
 
 </body>
 </html>
-
